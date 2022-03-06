@@ -26,7 +26,7 @@ SECRET_KEY = "y5zs-5(g$to=q^m8!m-ek9h9te@#5%asu#%tb030!)+7=ez$u^"
 DEBUG = True
 # DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 # ALLOWED_HOSTS = ["localhost"]
 
 
